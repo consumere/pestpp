@@ -2,7 +2,7 @@ name: pestpp continuous integration
 
 on: 
   schedule:
-    - cron: '0 8 * * *' # run at 8 AM UTC (12 am PST)
+  #  - cron: '0 8 * * *' # run at 8 AM UTC (12 am PST)
   push:
   pull_request:
 
